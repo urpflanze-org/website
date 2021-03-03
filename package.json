@@ -4,7 +4,7 @@
   "description": "Urpfanze Organization website",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"ok\""
   },
   "repository": {
     "type": "git",
