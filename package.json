@@ -1,0 +1,19 @@
+{
+  "name": "@urpflanze/website",
+  "version": "0.0.1",
+  "description": "Urpfanze Organization website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urpflanze-org/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urpflanze-org/website/issues"
+  },
+  "homepage": "https://github.com/urpflanze-org/website#readme"
+}
